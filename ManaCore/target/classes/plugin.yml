@@ -1,0 +1,10 @@
+name: Lobby
+version: 1.0
+main: samuraien2.Main
+api-version: '1.20.6'
+commands:
+  discord:
+  bypass:
+    permission: op
+  ping:
+  hub:
